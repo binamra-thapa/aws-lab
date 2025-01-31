@@ -1,0 +1,3 @@
+[submodule "cicd_lab"]
+	path = cicd_lab
+	url = codecommit::us-west-2://CICD_Lab
